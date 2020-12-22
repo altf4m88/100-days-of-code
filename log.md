@@ -7,3 +7,11 @@
 **Thoughts:** I'm a bit curious about the challenge and decided to check it out. Well, turns out it's a great challenge and i think it'll be good if i committed to the challenge. About my learning progress, today i learned Postgre sql and run through the installation and environment setup, i've also learned postgreSQL data types. Turns out it's not so different from MySQL for the query, but i notice that Postgre has another data types like point, line and circle which MySQL doesn't have; 
 
 **Link to work:** it's on my local environment so yeah, no links;
+
+### Day 1: December 22, 2020
+
+**Today's Progress**: Fixed one of my Discord Bot command, i've also continue my learning progress on Postgresql.
+
+**Thoughts:** I've been working on a discord bot for a while now. So this morning i noticed a bug on one command, it's called covid-country command which returns an information aboutcovid-19 cases in specific country. I had fixed it, but then another bug were surfaced, the requested data for China is not right and data for United States  did not returned at all. After i checked the API request on Postman app, i realized that China and US have a different JSON format. Then i checked the API documentation and i change the api request slug with a proper one. But there's another problem, now it's coming from the API, my former request slug includes Country Code on it json response while the later still had the Country Code key but all of it's value is empty string. I had to do a workaround for that by creating a new function which used to find country code from different api request. I've also changed a section of my code to asynchronous behaviour in order to get the function work properly. Before this moment i don't really care about asynchronous programming since i never put it to good use, but today i feel the power of magic word Async Await, it's damn cool!.
+
+**Link to work:** https://github.com/altf4m88/HistoBot;
