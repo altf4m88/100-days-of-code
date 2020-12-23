@@ -15,3 +15,13 @@
 **Thoughts:** I've been working on a discord bot for a while now. So this morning i noticed a bug on one command, it's called covid-country command which returns an information aboutcovid-19 cases in specific country. I had fixed it, but then another bug were surfaced, the requested data for China is not right and data for United States  did not returned at all. After i checked the API request on Postman app, i realized that China and US have a different JSON format. Then i checked the API documentation and i change the api request slug with a proper one. But there's another problem, now it's coming from the API, my former request slug includes Country Code on it json response while the later still had the Country Code key but all of it's value is empty string. I had to do a workaround for that by creating a new function which used to find country code from different api request. I've also changed a section of my code to asynchronous behaviour in order to get the function work properly. Before this moment i don't really care about asynchronous programming since i never put it to good use, but today i feel the power of magic word Async Await, it's damn cool!.
 
 **Link to work:** https://github.com/altf4m88/HistoBot;
+
+
+
+### Day 2: December 23, 2020
+
+**Today's Progress**: Added new fun command to Histobot.
+
+**Thoughts:** Today i created a new command for my discord bot, btw his name is HistoBot. The new command is a |joke command that returns a random joke. I've created the .js file and wrote the main code, i've also updated the command handler, url constant list and help.js command list. But i haven't tested nor debug it yet because my connection is painfully slow. I can't even login to Discord and i can't access my Bot on hosting environment, so i wrote the command on my local environment and certainly going to test it tomorrow. Then i'm going to push the commit to my github repo and finally pull the update on the hosting environment.
+
+**Link to work:** https://github.com/altf4m88/HistoBot;
