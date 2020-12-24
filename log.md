@@ -25,3 +25,11 @@
 **Thoughts:** Today i created a new command for my discord bot, btw his name is HistoBot. The new command is a |joke command that returns a random joke. I've created the .js file and wrote the main code, i've also updated the command handler, url constant list and help.js command list. But i haven't tested nor debug it yet because my connection is painfully slow. I can't even login to Discord and i can't access my Bot on hosting environment, so i wrote the command on my local environment and certainly going to test it tomorrow. Then i'm going to push the commit to my github repo and finally pull the update on the hosting environment.
 
 **Link to work:** https://github.com/altf4m88/HistoBot;
+
+### Day 3: December 24, 2020
+
+**Today's Progress**: Tested the discord joke command.
+
+**Thoughts:** I'm finally able to test my new bot command, and it work without errors. I've also updated the message embed style so it looks simpler. I'm looking forward to add more commands but haven't come up with a decent idea yet, maybe i'll work on another project for a while. Today i've also helped some friends to solve errors on their postgresql, i'm glad to help but there's one with different problem though. The error seems related to the microsoft account or something, it said "cannot no mapping between accounts and security id was done" when installing postgresql. I've scoured the internet trying to find the answer and haven't found that one solution to crack the egg, maybe i'll try again tomorrow.
+
+**Link to work:** https://github.com/altf4m88/HistoBot;
