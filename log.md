@@ -33,3 +33,11 @@
 **Thoughts:** I'm finally able to test my new bot command, and it work without errors. I've also updated the message embed style so it looks simpler. I'm looking forward to add more commands but haven't come up with a decent idea yet, maybe i'll work on another project for a while. Today i've also helped some friends to solve errors on their postgresql, i'm glad to help but there's one with different problem though. The error seems related to the microsoft account or something, it said "cannot no mapping between accounts and security id was done" when installing postgresql. I've scoured the internet trying to find the answer and haven't found that one solution to crack the egg, maybe i'll try again tomorrow.
 
 **Link to work:** https://github.com/altf4m88/HistoBot;
+
+### Day 4: December 25, 2020
+
+**Today's Progress**: Going through some responsive web design challenge on freeCodeCamp.
+
+**Thoughts:** I decided to go back to the basic, the good ol' html and css. I've planned to finish the Responsive Web Design certifications by January 2021, or faster would be better.
+
+**Link to work:** https://www.freecodecamp.org/fcc5e017f9a-8e51-468e-a97d-e7fdc24d36d4;
