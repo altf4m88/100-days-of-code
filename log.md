@@ -41,3 +41,11 @@
 **Thoughts:** I decided to go back to the basic, the good ol' html and css. I've planned to finish the Responsive Web Design certifications by January 2021, or faster would be better.
 
 **Link to work:** https://www.freecodecamp.org/fcc5e017f9a-8e51-468e-a97d-e7fdc24d36d4;
+
+### Day 5: December 26, 2020
+
+**Today's Progress**: Going through another wave of challenge on FCC.
+
+**Thoughts:** The rate of progress is great, but this is not a 'real' challenge yet. I'm looking forward to start the first responsive project ASAP.
+
+**Link to work:** https://www.freecodecamp.org/fcc5e017f9a-8e51-468e-a97d-e7fdc24d36d4;
