@@ -49,3 +49,11 @@
 **Thoughts:** The rate of progress is great, but this is not a 'real' challenge yet. I'm looking forward to start the first responsive project ASAP.
 
 **Link to work:** https://www.freecodecamp.org/fcc5e017f9a-8e51-468e-a97d-e7fdc24d36d4;
+
+### Day 6: December 27, 2020
+
+**Today's Progress**: Started my 'first' freeCodeCamp responsive web design project.
+
+**Thoughts:** Today i've laid up the groundwork for the project, i wrote all the element that required to pass the test, 8 out of 10 passed. I just have to style it now and make it responsive. I'm going to complete it tomorrow
+
+**Link to work:** https://codepen.io/altf4m88/pen/mdrqYve;
