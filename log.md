@@ -66,3 +66,14 @@
 **Thoughts:** A piece of cake, i make a tribute page for Karl Marx with the help of bootstrap. Tomorrow i'll work on the next project!
 
 **Link to work:** https://codepen.io/altf4m88/pen/mdrqYve;
+
+
+### Day 8: December 29, 2020
+
+**Today's Progress**: Survey form project completed, laid a groundwork for the product landing page.
+
+**Thoughts:** A simple html form, not much of a challenge. The biggest problem is only my lazyness to write down all css manually, but ain't that programmer traits? idk. I've plan to finish two project tomorrow, so i can claim the certification at the New Year's Eve. Yeah last certs in 2020!
+
+**Link to work:** https://codepen.io/altf4m88/pen/GRjywGW;
+
+
