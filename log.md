@@ -77,3 +77,11 @@
 **Link to work:** https://codepen.io/altf4m88/pen/GRjywGW;
 
 
+### Day 9: December 30, 2020
+
+**Today's Progress**: Built a Metallica album product landing page.
+
+**Thoughts:** Looks simple, maybe i could do more in the future but at least i covers the responsive web design principle for now. Change of plan that i won't finish the certifications by 31st December, there's not enough time and i have another thing to do. So it will be my first cert in 2021!
+
+**Link to work:** https://codepen.io/altf4m88/pen/yLapGgd;
+
