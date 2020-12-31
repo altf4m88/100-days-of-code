@@ -85,3 +85,13 @@
 
 **Link to work:** https://codepen.io/altf4m88/pen/yLapGgd;
 
+
+### Day 10: December 31, 2020
+
+**Today's Progress**: Going through some CSS Grid challenge before stepping into the fourth project.
+
+**Thoughts:** Got limited coding time so i decided to take some quick challenge. it's 10.32 PM now close to the new year's eve, I spend my time with my family. This is going to be my last commit in 2020, so many good things to reflect.
+
+**Link to work:** https://www.freecodecamp.org/fcc5e017f9a-8e51-468e-a97d-e7fdc24d36d4;
+
+
