@@ -95,3 +95,10 @@
 **Link to work:** https://www.freecodecamp.org/fcc5e017f9a-8e51-468e-a97d-e7fdc24d36d4;
 
 
+### Day 11: January 1, 2021
+
+**Today's Progress**: Working on the fourth project.
+
+**Thoughts:** First day on 2021, a fresh start. I built a technical documentation for my Discord Bot, so after the test passed it'll be useful. I submitted the code with all test passed, but i've just written a half of bot command documentation. I'll write another half tomorrow.
+
+**Link to work:** https://codepen.io/altf4m88/pen/PoGQLow;
