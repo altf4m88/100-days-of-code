@@ -102,3 +102,12 @@
 **Thoughts:** First day on 2021, a fresh start. I built a technical documentation for my Discord Bot, so after the test passed it'll be useful. I submitted the code with all test passed, but i've just written a half of bot command documentation. I'll write another half tomorrow.
 
 **Link to work:** https://codepen.io/altf4m88/pen/PoGQLow;
+
+
+### Day 12: January 2, 2021
+
+**Today's Progress**: Continue working on Bot documentation.
+
+**Thoughts:** Well turns out there still many to write in the documentation and i've also had to re-analyze every command i made so i could build a neat documentation. Just some commands left but i've already bored with it (i dont really like writing things other than code). So i think it'll be good to continue it tomorrow in fresh mood.
+
+**Link to work:** https://github.com/altf4m88/HistoBot-Documentation;
