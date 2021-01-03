@@ -111,3 +111,11 @@
 **Thoughts:** Well turns out there still many to write in the documentation and i've also had to re-analyze every command i made so i could build a neat documentation. Just some commands left but i've already bored with it (i dont really like writing things other than code). So i think it'll be good to continue it tomorrow in fresh mood.
 
 **Link to work:** https://github.com/altf4m88/HistoBot-Documentation;
+
+### Day 13: January 3, 2021
+
+**Today's Progress**: Finised the documentation and start working on the final project.
+
+**Thoughts:** Finally, the docs is done. Without further delay i uploaded the docs to repl.it so it could be accessed from my bot, i've also updated my bot command to provide the documentation link. Then, i fork the next project on CodePen and write the initial markup before add style and real content to it. Beside that, i've planned something big for special person, hope she's don't read this journal hehe XD.
+
+**Link to work:** https://github.com/altf4m88/HistoBot-Documentation; https://github.com/altf4m88/portfolio-page; https://histobot-documentation.fadhilm.repl.co/;
