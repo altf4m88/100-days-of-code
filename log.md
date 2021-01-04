@@ -119,3 +119,11 @@
 **Thoughts:** Finally, the docs is done. Without further delay i uploaded the docs to repl.it so it could be accessed from my bot, i've also updated my bot command to provide the documentation link. Then, i fork the next project on CodePen and write the initial markup before add style and real content to it. Beside that, i've planned something big for special person, hope she's don't read this journal hehe XD.
 
 **Link to work:** https://github.com/altf4m88/HistoBot-Documentation; https://github.com/altf4m88/portfolio-page; https://histobot-documentation.fadhilm.repl.co/;
+
+### Day 14: January 4, 2021
+
+**Today's Progress**: Continue working on project, but delayed because of painfully slow connection.
+
+**Thoughts:** I can't login to GitHub or CodePen, i can't even access font awesome to get some icons. My internet connection is a total junk, but i managed to continue the progress by working on local environment (and it kinda slow because i can't check reference). I write this entry on 4 AM, it's late but better than not write the log at all.
+
+**Link to work:** https://github.com/altf4m88/portfolio-page;
