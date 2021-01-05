@@ -127,3 +127,11 @@
 **Thoughts:** I can't login to GitHub or CodePen, i can't even access font awesome to get some icons. My internet connection is a total junk, but i managed to continue the progress by working on local environment (and it kinda slow because i can't check reference). I write this entry on 4 AM, it's late but better than not write the log at all.
 
 **Link to work:** https://github.com/altf4m88/portfolio-page;
+
+### Day 15: January 5, 2021
+
+**Today's Progress**: Create some animations for portfolio page.
+
+**Thoughts:** 1Mbps can you believe it? Internet connection still slow, can't open library documentation and font-awesome icons. But i managed to check reference from old JavaScript project and implement it to my current project. There's not much to do without stable internet, i hope tomorrow this problem will end. (Btw, today is also a great day for me, i scored 940 in TOEIC and it's the highscore in my school. One shot at glory!)
+
+**Link to work:** https://github.com/altf4m88/portfolio-page;
