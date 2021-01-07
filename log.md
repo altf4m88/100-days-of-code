@@ -135,3 +135,20 @@
 **Thoughts:** 1Mbps can you believe it? Internet connection still slow, can't open library documentation and font-awesome icons. But i managed to check reference from old JavaScript project and implement it to my current project. There's not much to do without stable internet, i hope tomorrow this problem will end. (Btw, today is also a great day for me, i scored 940 in TOEIC and it's the highscore in my school. One shot at glory!)
 
 **Link to work:** https://github.com/altf4m88/portfolio-page;
+
+### Day 16: January 6, 2021
+
+**Today's Progress**: Still working on the portfolio project.
+
+**Thoughts:** This is really frustrating, the internet connection is getting even slower than before. There's some problem with the test suite and I can't search the forums for explanations 'cause of infinite loading. Eh if i use this shitty internet just for playing game, then fine I don't care. But now this is really delaying my project where it supposed to be completed in 3 days or less.
+
+**Link to work:** https://github.com/altf4m88/portfolio-page;
+
+### Day 17: January 7, 2021
+
+**Today's Progress**: Of course, the portfolio project is not done yet.
+
+**Thoughts:** I think it'll be a good idea to write 2 entry at once since yesterday I can't access GitHub. I must scrapped some of my initial idea like using onscroll animation library for the project because it does not 'compatible' with my layout. Shame that I couldn't search for alternatives, well, you guess it why.
+
+**Link to work:** https://github.com/altf4m88/portfolio-page;
+
