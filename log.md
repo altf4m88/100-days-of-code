@@ -152,3 +152,11 @@
 
 **Link to work:** https://github.com/altf4m88/portfolio-page;
 
+
+### Day 18: January 8, 2021
+
+**Today's Progress**: Finally, Responsive Web Design project is done.
+
+**Thoughts:** That'll do for today, i spent 5 hours to fix all the layout, styling and responsive problem. It was fun though, i enjoyed it.
+
+**Link to work:** https://github.com/altf4m88/portfolio-page;
