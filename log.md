@@ -160,3 +160,12 @@
 **Thoughts:** That'll do for today, i spent 5 hours to fix all the layout, styling and responsive problem. It was fun though, i enjoyed it.
 
 **Link to work:** https://github.com/altf4m88/portfolio-page;
+
+
+### Day 19: January 9, 2021
+
+**Today's Progress**: Working on a surprise project.
+
+**Thoughts:** I'm going to impress her, i'm building something beautiful just for her. It'll be complex, with svg and js libraries. But it's going to be worth it.
+
+**Link to work:** https://github.com/altf4m88/birthday-surprise;
