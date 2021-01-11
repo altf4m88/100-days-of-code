@@ -169,3 +169,22 @@
 **Thoughts:** I'm going to impress her, i'm building something beautiful just for her. It'll be complex, with svg and js libraries. But it's going to be worth it.
 
 **Link to work:** https://github.com/altf4m88/birthday-surprise;
+
+
+### Day 20: January 10, 2021
+
+**Today's Progress**: Working on a surprise project, add event animations.
+
+**Thoughts:** I mostly make the animation with TimelineMax library, althought there's some loop animation using pure CSS.
+
+**Link to work:** https://github.com/altf4m88/birthday-surprise;
+
+
+
+### Day 21: January 11, 2021
+
+**Today's Progress**: Still working on the surprise project, add more complex animations.
+
+**Thoughts:** I added animations for some box and round object, i also added stacking animations.
+
+**Link to work:** https://github.com/altf4m88/birthday-surprise;
