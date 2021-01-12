@@ -188,3 +188,12 @@
 **Thoughts:** I added animations for some box and round object, i also added stacking animations.
 
 **Link to work:** https://github.com/altf4m88/birthday-surprise;
+
+
+### Day 22: January 12, 2021
+
+**Today's Progress**: Added opening animation and new element.
+
+**Thoughts:** Added text animation and new element for wishes and message. Can't do more than that, i feel sick today. Wish tomorrow will be better :/
+
+**Link to work:** https://github.com/altf4m88/birthday-surprise;
