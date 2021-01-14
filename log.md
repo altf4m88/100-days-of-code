@@ -197,3 +197,12 @@
 **Thoughts:** Added text animation and new element for wishes and message. Can't do more than that, i feel sick today. Wish tomorrow will be better :/
 
 **Link to work:** https://github.com/altf4m88/birthday-surprise;
+
+
+### Day 23: January 14, 2021
+
+**Today's Progress**: Changed the main structure, scrapped the original plan.
+
+**Thoughts:** Well i must admit that i missed 1 day because i was sick, i do some code but i'm afraid it's not enough so i think it's considered missed day. As for now i'm still working on the surprise project, despite of my sickness i won't stop now, it's looking good but it's still needs some more work here and there.
+
+**Link to work:** https://github.com/altf4m88/birthday-surprise;
