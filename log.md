@@ -206,3 +206,12 @@
 **Thoughts:** Well i must admit that i missed 1 day because i was sick, i do some code but i'm afraid it's not enough so i think it's considered missed day. As for now i'm still working on the surprise project, despite of my sickness i won't stop now, it's looking good but it's still needs some more work here and there.
 
 **Link to work:** https://github.com/altf4m88/birthday-surprise;
+
+### Day 24: January 15, 2021
+
+**Today's Progress**: Completed the birthday surprise project.
+
+**Thoughts:** Finally, it's done, takes about 1 week to finish it. Can't wait to see her reaction XD
+
+**Link to work:** https://github.com/altf4m88/birthday-surprise;
+
