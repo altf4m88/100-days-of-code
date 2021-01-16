@@ -215,3 +215,10 @@
 
 **Link to work:** https://github.com/altf4m88/birthday-surprise;
 
+
+### Day 25: January 16, 2021
+
+**Today's Progress**: Learned combination of Node.js & MySQL
+
+**Thoughts:** Back then i never thought that XAMPP could be used for JavaScript, I thought it just only for PHP. Well, I'm quite surprised that it runs faster than using PHP, everyday I dive deeper into the JavaScript world, yet i haven't witnessed the full extent of this language.
+
