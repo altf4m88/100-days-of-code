@@ -222,3 +222,11 @@
 
 **Thoughts:** Back then i never thought that XAMPP could be used for JavaScript, I thought it just only for PHP. Well, I'm quite surprised that it runs faster than using PHP, everyday I dive deeper into the JavaScript world, yet i haven't witnessed the full extent of this language.
 
+### Day 26: January 17, 2021
+
+**Today's Progress**: Working on a new project, a fullstack javascript app
+
+**Thoughts:** It's simply called Github Profile Fetcher, well as the name suggest it fetch github profiles with the help of github api. I use React for this project and i've also planned to add user authentication with nodejs and mysql.
+
+**Link to work:** https://github.com/altf4m88/github-profile-fetcher
+
