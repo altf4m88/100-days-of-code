@@ -230,3 +230,11 @@
 
 **Link to work:** https://github.com/altf4m88/github-profile-fetcher
 
+### Day 27: January 18, 2021
+
+**Today's Progress**: Continue working on GitHub profile fetcher, start internship at CV IDS
+
+**Thoughts:** Today i started my internship at CV IDS, well but it's kinda different because of this pandemic.
+
+**Link to work:** https://github.com/altf4m88/github-profile-fetcher
+
