@@ -238,3 +238,12 @@
 
 **Link to work:** https://github.com/altf4m88/github-profile-fetcher
 
+
+### Day 28: January 19, 2021
+
+**Today's Progress**: Still working on fullstack javascript app
+
+**Thoughts:** Finished the Profile.jsx component and added separate Repositories.jsx component for the user repo
+
+**Link to work:** https://github.com/altf4m88/github-profile-fetcher
+
