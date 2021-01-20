@@ -247,3 +247,11 @@
 
 **Link to work:** https://github.com/altf4m88/github-profile-fetcher
 
+
+### Day 29: January 20, 2021
+
+**Today's Progress**: Add redux store to git profile fetcher to group favourite profile
+
+**Thoughts:** Added redux action to get, add and delete profile from favourite section. Also added store to Profile.jsx component
+
+**Link to work:** https://github.com/altf4m88/github-profile-fetcher
