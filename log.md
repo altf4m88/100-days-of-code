@@ -255,3 +255,6 @@
 **Thoughts:** Added redux action to get, add and delete profile from favourite section. Also added store to Profile.jsx component
 
 **Link to work:** https://github.com/altf4m88/github-profile-fetcher
+
+
+[ FAILED ] Got to focus on internship project ( which does not count according to this challenge rule) but i'll be back as soon as possible after finishing my internship
